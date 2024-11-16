@@ -6,7 +6,7 @@ import writing from "../images/writing.jpg";
 import tech from "../images/tech.webp";
 import Anytime from "../images/anytime learn.jpg";
 
-function Commu() {
+function New() {
   return (
     <>
      <header className='text-center mb-[20px]'>
@@ -57,4 +57,4 @@ function Commu() {
   )
 }
 
-export default Commu
+export default New

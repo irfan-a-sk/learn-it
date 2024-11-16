@@ -12,7 +12,7 @@ const About =() => {
     return(
         <>
         <div className="App m-auto ">
-            <h1 className='Heading text-center mt-[30px] text-[40px] max-sm:text-[35px]'><strong>Innovation </strong>in Online Learning
+            <h1 className='Heading text-center mt-[30px] text-[40px] max-sm:text-[30px]'><strong>Innovation </strong>in Online Learning
             </h1><br></br>
           </div>
          
