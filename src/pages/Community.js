@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
 // ------images----------
 import teach from "../images/teach.jpg";
 
@@ -29,6 +30,8 @@ const Community = () => {
           alt="top-img"
         />
       </div>
+
+      
     </>
   );
 };
